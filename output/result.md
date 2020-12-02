@@ -2,9 +2,9 @@
 # 计算机英语词汇
 ## A(334)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|aag|aat|abacus|abandon|abandoned|abbreviate|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |aag|aat|abacus|abandon|abandoned|abbreviate|
 |abd|abend|ability|ably|abnormal|abort|
 |abound|about|aboveboard|abr|abracadabra|absence|
 |absent|absolute|absolutely|absorb|absorption|abstract|
@@ -62,9 +62,9 @@
 |avoid|aware|away|axis|
 ## B(188)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|babble|back|backbone|backed|background|backing|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |babble|back|backbone|backed|background|backing|
 |backlog|backslash|backspace|backup|backward|bacon|
 |bad|badge|bag|baggage|bal|balance|
 |balanced|ball|ballot|balls|band|bandwidth|
@@ -98,9 +98,9 @@
 |byte|bytecode|
 ## C(421)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|cabling|cac|cache|cad|calculate|calculated|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |cabling|cac|cache|cad|calculate|calculated|
 |calculating|calculation|calculus|calendar|calibrate|call|
 |callback|caller|calling|callout|camcorder|came|
 |campaign|cancel|candidate|cannot|canonical|cant|
@@ -173,9 +173,9 @@
 |cycle|
 ## D(319)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|dad|dag|daily|damage|damp|dampen|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |dad|dag|daily|damage|damp|dampen|
 |damping|dangerous|dard|dark|darkness|dasd|
 |dashed|data|database|datable|datagram|date|
 |dating|datum|daunting|dave|day|db|
@@ -231,9 +231,9 @@
 |dynamics|
 ## E(233)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|eBay|each|eager|eagle|ean|ear|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |eBay|each|eager|eagle|ean|ear|
 |earlier|earliest|early|ease|easier|easiest|
 |easily|easy|eccentricity|echo|ecological|ecology|
 |econ|economical|economy|edge|edged|edit|
@@ -274,9 +274,9 @@
 |external|extra|extract|extremely|extremity|
 ## F(198)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|fac|face|faced|facilitate|facility|facing|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |fac|face|faced|facilitate|facility|facing|
 |facsimile|fact|factor|factorial|factorization|fail|
 |failure|fair|fairly|fairness|faith|fall|
 |fallback|falling|false|falsify|familiar|familiarity|
@@ -312,9 +312,9 @@
 
 ## G(109)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|gag|gain|game|gamut|gap|garbage|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |gag|gain|game|gamut|gap|garbage|
 |garth|gas|gat|gate|gateway|gather|
 |gathering|gauge|gaussian|gca|gcc|gct|
 |gen|general|generality|generalization|generalized|generally|
@@ -335,9 +335,9 @@
 |guideline|
 ## H(111)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|hacker|half|halftone|halfway|hallmark|halt|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |hacker|half|halftone|halfway|hallmark|halt|
 |halting|halve|hamiltonian|hamlet|hammer|han|
 |hand|handle|handset|handy|hang|happen|
 |happening|happy|hard|hardly|hardware|hardwired|
@@ -358,9 +358,9 @@
 |hypotheses|hypothesis|hypothesize|
 ## I(250)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|icon|idea|ideal|ideally|idempotent|identical|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |icon|idea|ideal|ideally|idempotent|identical|
 |identification|identifier|identify|identity|idiom|idiomatic|
 |idle|ieee|ignore|iii|ill|illegal|
 |illustrate|illustration|illustrative|image|imaginary|imagine|
@@ -404,9 +404,9 @@
 |iteration|iterative|itself|ity|
 ## J(33)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|jack|jackie|jackson|jam|jan|janet|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |jack|jackie|jackson|jam|jan|janet|
 |jargon|javac|javascript|jenny|jersey|jet|
 |job|joggle|john|johnson|join|joint|
 |jones|journal|joystick|jude|judgment|judicious|
@@ -414,9 +414,9 @@
 |justice|justified|justify|
 ## K(38)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|kanji|karen|katakana|kate|kathleen|keep|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |kanji|karen|katakana|kate|kathleen|keep|
 |keeping|kelly|kept|kernel|kevin|key|
 |keyboard|keyed|keypad|keypunch|keyword|khi|
 |kick|kill|killing|kilo|kilobyte|kilogram|
@@ -425,9 +425,9 @@
 |known|kraft|
 ## L(158)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|label|labor|laboratory|lack|lady|lag|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |label|labor|laboratory|lack|lady|lag|
 |laid|land|landau|landed|landmark|lang|
 |language|laptop|lar|large|largely|larger|
 |largest|late|lated|latency|later|latest|
@@ -456,9 +456,9 @@
 |lvalue|lysine|
 ## M(264)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|machine|macro|macroinstruction|macroscopic|made|magenta|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |machine|macro|macroinstruction|macroscopic|made|magenta|
 |magnitude|mail|mailbox|mailing|main|mainframe|
 |mainline|mainstream|maintain|maintainability|maintainable|maintenance|
 |majestic|major|majority|make|making|mal|
@@ -505,9 +505,9 @@
 
 ## N(98)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|nail|naive|nak|name|nan|nanosecond|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |nail|naive|nak|name|nan|nanosecond|
 |narrative|narrow|narrows|nary|nation|national|
 |native|natural|naturally|nature|navigate|navigation|
 |navigational|near|nearby|nearly|neat|necessarily|
@@ -526,9 +526,9 @@
 |numerous|nuts|
 ## O(123)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|obey|object|objective|observation|observe|observer|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |obey|object|objective|observation|observe|observer|
 |observing|obsolete|obstruction|obtain|obvious|occasional|
 |occasionally|occlude|occupancy|occupation|occupied|occupy|
 |occur|occurrence|ocean|oct|octal|octet|
@@ -551,9 +551,9 @@
 |owner|ownership|oxford|
 ## P(331)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|pace|paced|pacemaker|pack|package|packaging|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |pace|paced|pacemaker|pack|package|packaging|
 |packet|packing|pact|pad|padding|page|
 |pagination|paging|paid|pair|palette|palindrome|
 |panacea|pane|panel|paper|par|paradigm|
@@ -611,18 +611,18 @@
 |python|
 ## Q(29)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|quad|quadratic|quadrature|qualified|qualifier|qualitative|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |quad|quadratic|quadrature|qualified|qualifier|qualitative|
 |quality|quantify|quantitative|quantity|quantize|quantum|
 |quark|quarter|quartet|query|quest|question|
 |queue|quick|quickly|quiet|quinary|quintet|
 |quit|quite|quotation|quote|quotient|
 ## R(299)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|race|rack|radar|radiate|radius|radix|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |race|rack|radar|radiate|radius|radix|
 |ragged|rail|raise|raised|ram|ran|
 |random|randomization|randomize|range|rank|ranking|
 |rare|rarely|raster|rate|rather|rating|
@@ -674,9 +674,9 @@
 |rule|ruling|run|running|runtime|
 ## S(449)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|sac|sacrifice|sacrosanct|saddle|safe|safely|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |sac|sacrifice|sacrosanct|saddle|safe|safely|
 |safety|said|sake|salamander|salary|sale|
 |salesperson|salient|same|sample|samplesort|sampling|
 |san|satisfiable|satisfied|satisfy|satisfying|save|
@@ -753,9 +753,9 @@
 |synonym|synopsis|syntactical|syntax|synthetic|
 ## T(252)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|taa|tab|table|tablet|tabular|tabulate|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |taa|tab|table|tablet|tabular|tabulate|
 |tabulator|tac|tachometer|tag|tai|tail|
 |tailgate|tailor|tailored|tain|take|taken|
 |taking|tale|talent|talk|talking|tally|
@@ -800,9 +800,9 @@
 
 ## U(105)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|ual|ubiquitous|ubiquity|ui|ultimately|umlaut|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |ual|ubiquitous|ubiquity|ui|ultimately|umlaut|
 |unable|unacceptable|unaffected|unanswered|unary|unattached|
 |unattended|unavailing|unbalanced|unbiased|unbind|unblock|
 |unbound|unbounded|unchanged|unclassified|undefined|under|
@@ -822,9 +822,9 @@
 |usual|usually|utility|
 ## V(81)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|vague|val|valid|validate|validation|validity|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |vague|val|valid|validate|validation|validity|
 |valine|valuable|valuator|value|valued|van|
 |vantage|var|vari|variable|variance|variant|
 |variation|variety|various|vary|vas|vast|
@@ -840,9 +840,9 @@
 |von|voting|vowel|
 ## W(100)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|wafer|wait|waiting|wall|want|war|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |wafer|wait|waiting|wall|want|war|
 |ward|ware|warehouse|warm|warn|warning|
 |warranty|waste|wasted|wasteful|wasting|watch|
 |water|watertight|watt|waveform|way|weak|
@@ -861,18 +861,18 @@
 |writing|written|wrong|www|
 ## X(2)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|xii|xxx|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |xii|xxx|
 ## Y(7)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|yahoo|year|yellow|yet|yield|yond|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |yahoo|year|yellow|yet|yield|yond|
 |yourself|
 ## Z(8)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|zap|zero|zeroize|zip|zone|zoo|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |zap|zero|zeroize|zip|zone|zoo|
 |zoology|zoom|

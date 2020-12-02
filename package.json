@@ -1,0 +1,19 @@
+{
+  "name": "word-book",
+  "version": "1.0.0",
+  "description": "Commonly used words in programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuoluo-hq/word-book.git"
+  },
+  "author": "huangqiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuoluo-hq/word-book/issues"
+  },
+  "homepage": "https://github.com/zhuoluo-hq/word-book#readme"
+}
