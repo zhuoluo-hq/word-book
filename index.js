@@ -1,13 +1,15 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
-const list1 = require('./1.json');
-const list2 = require('./2.json');
+const list1 = require("./data/1.json");
+const list2 = require("./data/2.json");
+const list_ignore = require("./data/ignore.json");
+const list_add = require("./data/add.json");
 
 const list = [];
 
-[...list1, ...list2].forEach((word) => {
-  if (list.indexOf(word) === -1) {
+[...list_add, ...list1, ...list2].forEach((word) => {
+  if (list.indexOf(word) === -1 && list_ignore.indexOf(word) === -1) {
     list.push(word);
   }
 });
@@ -25,18 +27,18 @@ const result = `
     <title>计算机英语词汇</title>
   </head>
   <body>
-  ${wordHtml.join('\n')}
+  ${wordHtml.join("\n")}
   </body>
 </html>
 `;
 
 fs.writeFile(
-  path.resolve(__dirname, './output/result.html'),
+  path.resolve(__dirname, "./output/result.html"),
   result,
-  { encoding: 'utf-8' },
+  { encoding: "utf-8" },
   (err) => {
     if (!err) {
-      console.log('完成');
+      console.log("完成");
     }
   }
 );
@@ -54,11 +56,11 @@ function getSectionMd(section) {
   `;
   for (let i = 0; i < wordList.length; i++) {
     if (i % 6 === 0) {
-      tableStr += '|';
+      tableStr += "|";
     }
     tableStr += `${wordList[i]}|`;
     if (i % 6 === 5) {
-      tableStr += '\n';
+      tableStr += "\n";
     }
   }
 
@@ -66,32 +68,32 @@ function getSectionMd(section) {
 }
 
 const sectionList = [
-  { firstletter: 'a' },
-  { firstletter: 'b' },
-  { firstletter: 'c' },
-  { firstletter: 'd' },
-  { firstletter: 'e' },
-  { firstletter: 'f' },
-  { firstletter: 'g' },
-  { firstletter: 'h' },
-  { firstletter: 'i' },
-  { firstletter: 'j' },
-  { firstletter: 'k' },
-  { firstletter: 'l' },
-  { firstletter: 'm' },
-  { firstletter: 'n' },
-  { firstletter: 'o' },
-  { firstletter: 'p' },
-  { firstletter: 'q' },
-  { firstletter: 'r' },
-  { firstletter: 's' },
-  { firstletter: 't' },
-  { firstletter: 'u' },
-  { firstletter: 'v' },
-  { firstletter: 'w' },
-  { firstletter: 'x' },
-  { firstletter: 'y' },
-  { firstletter: 'z' },
+  { firstletter: "a" },
+  { firstletter: "b" },
+  { firstletter: "c" },
+  { firstletter: "d" },
+  { firstletter: "e" },
+  { firstletter: "f" },
+  { firstletter: "g" },
+  { firstletter: "h" },
+  { firstletter: "i" },
+  { firstletter: "j" },
+  { firstletter: "k" },
+  { firstletter: "l" },
+  { firstletter: "m" },
+  { firstletter: "n" },
+  { firstletter: "o" },
+  { firstletter: "p" },
+  { firstletter: "q" },
+  { firstletter: "r" },
+  { firstletter: "s" },
+  { firstletter: "t" },
+  { firstletter: "u" },
+  { firstletter: "v" },
+  { firstletter: "w" },
+  { firstletter: "x" },
+  { firstletter: "y" },
+  { firstletter: "z" },
 ]
   .map((section) => {
     return {
@@ -107,16 +109,16 @@ const sectionList = [
 
 const md = `
 # 计算机英语词汇
-${sectionList.join('\n')}
+${sectionList.join("\n")}
 `;
 
 fs.writeFile(
-  path.resolve(__dirname, './output/result.md'),
+  path.resolve(__dirname, "./output/result.md"),
   md,
-  { encoding: 'utf-8' },
+  { encoding: "utf-8" },
   (err) => {
     if (!err) {
-      console.log('完成');
+      console.log("完成");
     }
   }
 );
