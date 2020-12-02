@@ -1,70 +1,70 @@
 
 # 计算机英语词汇
-## A(334)
+## A(331)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|aag|aat|abacus|abandon|abandoned|abbreviate|
-|abd|abend|ability|ably|abnormal|abort|
-|abound|about|aboveboard|abr|abracadabra|absence|
-|absent|absolute|absolutely|absorb|absorption|abstract|
-|abstraction|absurd|academic|acceleration|accelerator|accent|
-|accept|acceptable|accepted|access|accessible|accessory|
-|accidental|accommodate|accomplish|accomplished|accord|accordance|
-|according|accordingly|account|accounting|accumulate|accumulator|
-|accuracy|accurate|achieve|achieved|acid|ack|
-|acknowledgment|acoustic|acquire|acquisition|acronym|across|
-|act|action|activate|activation|active|activity|
-|actual|actually|actuator|acyclic|adapt|adaptability|
-|adapted|adapter|add|added|addend|adder|
-|addition|additional|additionally|additive|address|addressee|
-|adequate|adhere|adj|adjacency|adjacent|adjust|
-|adjustment|administrator|admit|admittedly|adobe|adopt|
-|advance|advanced|advantage|advent|affect|affected|
-|afford|again|age|aggregate|ahead|aid|
-|airflow|airline|airport|aisle|alan|alarm|
-|alert|alfred|alg|algae|algebra|algebraic|
-|algonquin|algor|algorithm|algorithmic|alias|aliasing|
-|align|alignment|alive|all|allocate|allocation|
-|allocator|allow|allowable|allowance|allude|ally|
-|almost|alpha|alphabet|alphabetic|alphabetical|alphameric|
-|alphanumeric|already|also|alter|alteration|alternate|
-|alternative|alternatively|although|always|amalgam|ambiguity|
-|amine|amino|amount|amp|ampere|ampersand|
-|ample|amplifier|amplitude|analog|analogous|analogue|
-|analysis|analyst|analytic|analytics|analyze|analyzer|
-|anatomy|ance|ancestor|ancestral|and|andrew|
-|angelina|angle|angstrom|animal|animate|animated|
-|animation|anne|annotate|annotation|announce|announcement|
-|announciator|annoying|anode|anomalous|another|answer|
-|ant|antialiasing|anticipate|antiquity|antistatic|antisymmetric|
-|anyone|anything|anytime|anywhere|apart|aperture|
-|api|apostrophe|apparent|appeal|appealing|appear|
-|appel|append|appendix|apple|applicability|applicable|
-|application|applied|apply|appreciate|appreciation|appro|
-|approach|appropriate|approximate|approximately|approximation|apron|
-|arbitrage|arbitrary|arborescence|architectural|architecture|archive|
-|arduous|area|arg|arginine|argument|arise|
-|arith|arithmetic|arithmetical|ark|armed|around|
-|arrange|arranged|arrangement|array|arrival|arrive|
-|art|article|articulate|articulated|artificial|artist|
-|ary|ascend|ascending|asking|aspire|assemble|
-|assembly|assert|assertion|asset|assign|assignment|
-|assist|assistance|associate|associated|association|associative|
-|assortment|assume|assumed|assuming|assumption|assurance|
-|assured|asterisk|astrophysics|asymptotic|asynchronous|ate|
-|atom|atomicity|attach|attached|attachment|attempt|
-|attention|attenuation|attenuator|attractive|attribute|audio|
-|audit|augend|augment|augmented|authentication|authenticator|
-|author|authority|authorization|authorize|authorized|auto|
-|autoindex|automata|automatic|automatically|automation|automaton|
-|aux|auxiliary|avail|available|average|avg|
-|avoid|aware|away|axis|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |abacus|abandon|abandoned|abbreviate|abd|abend|
+|ability|ably|abnormal|abort|abound|about|
+|aboveboard|abracadabra|absence|absent|absolute|absolutely|
+|absorb|absorption|abstract|abstraction|absurd|academic|
+|acceleration|accelerator|accent|accept|acceptable|accepted|
+|access|accessible|accessory|accidental|accommodate|accomplish|
+|accomplished|accord|accordance|according|accordingly|account|
+|accounting|accumulate|accumulator|accuracy|accurate|achieve|
+|achieved|acid|ack|acknowledgment|acoustic|acquire|
+|acquisition|acronym|across|act|action|activate|
+|activation|active|activity|actual|actually|actuator|
+|acyclic|adapt|adaptability|adapted|adapter|add|
+|added|addend|adder|addition|additional|additionally|
+|additive|address|addressee|adequate|adhere|adj|
+|adjacency|adjacent|adjust|adjustment|administrator|admit|
+|admittedly|adobe|adopt|advance|advanced|advantage|
+|advent|affect|affected|afford|again|age|
+|aggregate|ahead|aid|airflow|airline|airport|
+|aisle|alan|alarm|alert|alfred|alg|
+|algae|algebra|algebraic|algonquin|algor|algorithm|
+|algorithmic|alias|aliasing|align|alignment|alive|
+|all|allocate|allocation|allocator|allow|allowable|
+|allowance|allude|ally|almost|alpha|alphabet|
+|alphabetic|alphabetical|alphameric|alphanumeric|already|also|
+|alter|alteration|alternate|alternative|alternatively|although|
+|always|amalgam|ambiguity|amine|amino|amount|
+|amp|ampere|ampersand|ample|amplifier|amplitude|
+|analog|analogous|analogue|analysis|analyst|analytic|
+|analytics|analyze|analyzer|anatomy|ance|ancestor|
+|ancestral|and|andrew|angelina|angle|angstrom|
+|animal|animate|animated|animation|anne|annotate|
+|annotation|announce|announcement|announciator|annoying|anode|
+|anomalous|another|answer|ant|antialiasing|anticipate|
+|antiquity|antistatic|antisymmetric|anyone|anything|anytime|
+|anywhere|apart|aperture|api|apostrophe|apparent|
+|appeal|appealing|appear|appel|append|appendix|
+|apple|applicability|applicable|application|applied|apply|
+|appreciate|appreciation|appro|approach|appropriate|approximate|
+|approximately|approximation|apron|arbitrage|arbitrary|arborescence|
+|architectural|architecture|archive|arduous|area|arg|
+|arginine|argument|arise|arith|arithmetic|arithmetical|
+|ark|armed|around|arrange|arranged|arrangement|
+|array|arrival|arrive|art|article|articulate|
+|articulated|artificial|artist|ary|ascend|ascending|
+|asking|aspire|assemble|assembly|assert|assertion|
+|asset|assign|assignment|assist|assistance|associate|
+|associated|association|associative|assortment|assume|assumed|
+|assuming|assumption|assurance|assured|asterisk|astrophysics|
+|asymptotic|asynchronous|ate|atom|atomicity|attach|
+|attached|attachment|attempt|attention|attenuation|attenuator|
+|attractive|attribute|audio|audit|augend|augment|
+|augmented|authentication|authenticator|author|authority|authorization|
+|authorize|authorized|auto|autoindex|automata|automatic|
+|automatically|automation|automaton|aux|auxiliary|avail|
+|available|average|avg|avoid|aware|away|
+|axis|
 ## B(188)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|babble|back|backbone|backed|background|backing|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |babble|back|backbone|backed|background|backing|
 |backlog|backslash|backspace|backup|backward|bacon|
 |bad|badge|bag|baggage|bal|balance|
 |balanced|ball|ballot|balls|band|bandwidth|
@@ -98,9 +98,9 @@
 |byte|bytecode|
 ## C(421)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|cabling|cac|cache|cad|calculate|calculated|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |cabling|cac|cache|cad|calculate|calculated|
 |calculating|calculation|calculus|calendar|calibrate|call|
 |callback|caller|calling|callout|camcorder|came|
 |campaign|cancel|candidate|cannot|canonical|cant|
@@ -173,9 +173,9 @@
 |cycle|
 ## D(319)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|dad|dag|daily|damage|damp|dampen|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |dad|dag|daily|damage|damp|dampen|
 |damping|dangerous|dard|dark|darkness|dasd|
 |dashed|data|database|datable|datagram|date|
 |dating|datum|daunting|dave|day|db|
@@ -229,54 +229,54 @@
 |dumb|dummy|dump|duodecimal|duplex|duplicate|
 |duplication|duplicator|duration|during|dwell|dynamic|
 |dynamics|
-## E(233)
+## E(231)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|eBay|each|eager|eagle|ean|ear|
-|earlier|earliest|early|ease|easier|easiest|
-|easily|easy|eccentricity|echo|ecological|ecology|
-|econ|economical|economy|edge|edged|edit|
-|edition|editor|edu|educate|education|educational|
-|effect|effective|effectively|effectiveness|effectivity|efficacy|
-|efficiency|efficient|efficiently|effort|egg|egret|
-|eigenvalue|eighth|eject|elaboration|elastic|election|
-|electric|electrical|electronic|electronics|elegant|element|
-|elementary|eligible|eliminate|elimination|ellipse|ellipsis|
-|ellipsoid|else|elsewhere|elusive|email|embedded|
-|embossment|embrace|emergence|emphasis|emphasize|empirical|
-|empty|emulate|emulation|emulsion|enable|encapsulate|
-|encapsulation|encipher|enclave|enclose|enclosed|enclosure|
-|encode|encounter|encrypt|encryption|end|ending|
-|endow|endpoint|energy|enforce|engaged|engine|
-|engineer|engineering|enhance|enjoy|enlargement|enough|
-|enquiry|enroll|ensure|enter|enterprise|entire|
-|entirely|entity|entrance|entropy|entry|enumeration|
-|enumerator|environ|environment|environmental|epilogue|epoch|
-|epsilon|equal|equality|equalization|equalizer|equally|
-|equation|equilibrium|equipment|equivalence|equivalent|equivocation|
-|erase|eraser|erasure|erlang|err|error|
-|escalation|escape|esoteric|especially|essential|essentially|
-|est|establish|established|establishment|estimate|etb|
-|eternal|etx|etymology|euclid|evaluate|evaluation|
-|eve|event|eventually|ever|every|everything|
-|everywhere|evidence|evident|evidently|evil|evolution|
-|exact|exactly|exam|examine|example|exceed|
-|exceedingly|excellent|except|exception|exceptional|excerpt|
-|excessive|exchange|exclamation|exclude|exclusive|executable|
-|execute|execution|exercise|exhausted|exist|existence|
-|existing|exit|expand|expander|expanding|expansion|
-|expect|expenditure|expensive|experience|experiment|experimental|
-|experimentation|expire|explain|explanation|explanatory|expletive|
-|explicit|exploit|exploration|explore|exponent|exponential|
-|exponentiation|export|exporter|exposure|express|expression|
-|expunge|extend|extended|extension|extensive|extent|
-|external|extra|extract|extremely|extremity|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |each|eager|eagle|ear|earlier|earliest|
+|early|ease|easier|easiest|easily|easy|
+|eccentricity|echo|ecological|ecology|econ|economical|
+|economy|edge|edged|edit|edition|editor|
+|edu|educate|education|educational|effect|effective|
+|effectively|effectiveness|effectivity|efficacy|efficiency|efficient|
+|efficiently|effort|egg|egret|eigenvalue|eighth|
+|eject|elaboration|elastic|election|electric|electrical|
+|electronic|electronics|elegant|element|elementary|eligible|
+|eliminate|elimination|ellipse|ellipsis|ellipsoid|else|
+|elsewhere|elusive|email|embedded|embossment|embrace|
+|emergence|emphasis|emphasize|empirical|empty|emulate|
+|emulation|emulsion|enable|encapsulate|encapsulation|encipher|
+|enclave|enclose|enclosed|enclosure|encode|encounter|
+|encrypt|encryption|end|ending|endow|endpoint|
+|energy|enforce|engaged|engine|engineer|engineering|
+|enhance|enjoy|enlargement|enough|enquiry|enroll|
+|ensure|enter|enterprise|entire|entirely|entity|
+|entrance|entropy|entry|enumeration|enumerator|environ|
+|environment|environmental|epilogue|epoch|epsilon|equal|
+|equality|equalization|equalizer|equally|equation|equilibrium|
+|equipment|equivalence|equivalent|equivocation|erase|eraser|
+|erasure|erlang|err|error|escalation|escape|
+|esoteric|especially|essential|essentially|est|establish|
+|established|establishment|estimate|etb|eternal|etx|
+|etymology|euclid|evaluate|evaluation|eve|event|
+|eventually|ever|every|everything|everywhere|evidence|
+|evident|evidently|evil|evolution|exact|exactly|
+|exam|examine|example|exceed|exceedingly|excellent|
+|except|exception|exceptional|excerpt|excessive|exchange|
+|exclamation|exclude|exclusive|executable|execute|execution|
+|exercise|exhausted|exist|existence|existing|exit|
+|expand|expander|expanding|expansion|expect|expenditure|
+|expensive|experience|experiment|experimental|experimentation|expire|
+|explain|explanation|explanatory|expletive|explicit|exploit|
+|exploration|explore|exponent|exponential|exponentiation|export|
+|exporter|exposure|express|expression|expunge|extend|
+|extended|extension|extensive|extent|external|extra|
+|extract|extremely|extremity|
 ## F(198)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|fac|face|faced|facilitate|facility|facing|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |fac|face|faced|facilitate|facility|facing|
 |facsimile|fact|factor|factorial|factorization|fail|
 |failure|fair|fairly|fairness|faith|fall|
 |fallback|falling|false|falsify|familiar|familiarity|
@@ -312,9 +312,9 @@
 
 ## G(109)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|gag|gain|game|gamut|gap|garbage|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |gag|gain|game|gamut|gap|garbage|
 |garth|gas|gat|gate|gateway|gather|
 |gathering|gauge|gaussian|gca|gcc|gct|
 |gen|general|generality|generalization|generalized|generally|
@@ -335,9 +335,9 @@
 |guideline|
 ## H(111)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|hacker|half|halftone|halfway|hallmark|halt|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |hacker|half|halftone|halfway|hallmark|halt|
 |halting|halve|hamiltonian|hamlet|hammer|han|
 |hand|handle|handset|handy|hang|happen|
 |happening|happy|hard|hardly|hardware|hardwired|
@@ -356,11 +356,11 @@
 |huge|human|humidity|hundred|hunting|husband|
 |hybrid|hyperbola|hyperlink|hypertext|hyphenation|hypotenuse|
 |hypotheses|hypothesis|hypothesize|
-## I(250)
+## I(249)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|icon|idea|ideal|ideally|idempotent|identical|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |icon|idea|ideal|ideally|idempotent|identical|
 |identification|identifier|identify|identity|idiom|idiomatic|
 |idle|ieee|ignore|iii|ill|illegal|
 |illustrate|illustration|illustrative|image|imaginary|imagine|
@@ -401,12 +401,12 @@
 |invariant|invent|invention|inventory|inverse|invert|
 |inverted|investigate|invocation|invoice|invoke|involve|
 |involved|isn|isolation|issue|item|iterate|
-|iteration|iterative|itself|ity|
+|iteration|iterative|itself|
 ## J(33)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|jack|jackie|jackson|jam|jan|janet|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |jack|jackie|jackson|jam|jan|janet|
 |jargon|javac|javascript|jenny|jersey|jet|
 |job|joggle|john|johnson|join|joint|
 |jones|journal|joystick|jude|judgment|judicious|
@@ -414,9 +414,9 @@
 |justice|justified|justify|
 ## K(38)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|kanji|karen|katakana|kate|kathleen|keep|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |kanji|karen|katakana|kate|kathleen|keep|
 |keeping|kelly|kept|kernel|kevin|key|
 |keyboard|keyed|keypad|keypunch|keyword|khi|
 |kick|kill|killing|kilo|kilobyte|kilogram|
@@ -425,9 +425,9 @@
 |known|kraft|
 ## L(158)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|label|labor|laboratory|lack|lady|lag|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |label|labor|laboratory|lack|lady|lag|
 |laid|land|landau|landed|landmark|lang|
 |language|laptop|lar|large|largely|larger|
 |largest|late|lated|latency|later|latest|
@@ -456,9 +456,9 @@
 |lvalue|lysine|
 ## M(264)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|machine|macro|macroinstruction|macroscopic|made|magenta|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |machine|macro|macroinstruction|macroscopic|made|magenta|
 |magnitude|mail|mailbox|mailing|main|mainframe|
 |mainline|mainstream|maintain|maintainability|maintainable|maintenance|
 |majestic|major|majority|make|making|mal|
@@ -505,9 +505,9 @@
 
 ## N(98)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|nail|naive|nak|name|nan|nanosecond|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |nail|naive|nak|name|nan|nanosecond|
 |narrative|narrow|narrows|nary|nation|national|
 |native|natural|naturally|nature|navigate|navigation|
 |navigational|near|nearby|nearly|neat|necessarily|
@@ -526,9 +526,9 @@
 |numerous|nuts|
 ## O(123)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|obey|object|objective|observation|observe|observer|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |obey|object|objective|observation|observe|observer|
 |observing|obsolete|obstruction|obtain|obvious|occasional|
 |occasionally|occlude|occupancy|occupation|occupied|occupy|
 |occur|occurrence|ocean|oct|octal|octet|
@@ -551,9 +551,9 @@
 |owner|ownership|oxford|
 ## P(331)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|pace|paced|pacemaker|pack|package|packaging|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |pace|paced|pacemaker|pack|package|packaging|
 |packet|packing|pact|pad|padding|page|
 |pagination|paging|paid|pair|palette|palindrome|
 |panacea|pane|panel|paper|par|paradigm|
@@ -611,18 +611,18 @@
 |python|
 ## Q(29)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|quad|quadratic|quadrature|qualified|qualifier|qualitative|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |quad|quadratic|quadrature|qualified|qualifier|qualitative|
 |quality|quantify|quantitative|quantity|quantize|quantum|
 |quark|quarter|quartet|query|quest|question|
 |queue|quick|quickly|quiet|quinary|quintet|
 |quit|quite|quotation|quote|quotient|
 ## R(299)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|race|rack|radar|radiate|radius|radix|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |race|rack|radar|radiate|radius|radix|
 |ragged|rail|raise|raised|ram|ran|
 |random|randomization|randomize|range|rank|ranking|
 |rare|rarely|raster|rate|rather|rating|
@@ -674,9 +674,9 @@
 |rule|ruling|run|running|runtime|
 ## S(449)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|sac|sacrifice|sacrosanct|saddle|safe|safely|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |sac|sacrifice|sacrosanct|saddle|safe|safely|
 |safety|said|sake|salamander|salary|sale|
 |salesperson|salient|same|sample|samplesort|sampling|
 |san|satisfiable|satisfied|satisfy|satisfying|save|
@@ -751,80 +751,79 @@
 |sym|symbol|symbolic|symmetric|symmetry|syn|
 |synch|synchronization|synchronize|synchronous|syndetic|synergic|
 |synonym|synopsis|syntactical|syntax|synthetic|
-## T(252)
+## T(251)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|taa|tab|table|tablet|tabular|tabulate|
-|tabulator|tac|tachometer|tag|tai|tail|
-|tailgate|tailor|tailored|tain|take|taken|
-|taking|tale|talent|talk|talking|tally|
-|tandem|tariff|task|tau|taylor|tct|
-|teach|teaching|team|technical|technically|technique|
-|technology|telecommunication|telemeter|telephone|teleprinter|teleprocessing|
-|teletype|teletypewriter|tell|telling|temp|temperature|
-|template|tempo|temporarily|temporary|tend|tension|
-|ter|term|terminal|terminate|termination|terminator|
-|terminology|tern|ternary|test|tested|testimony|
-|testing|tex|text|textbook|texture|tgt|
-|than|theater|theme|themselves|then|theorem|
-|theoretical|theoretically|theory|thereafter|thereby|therefore|
-|thesaurus|thesis|theta|thick|thickness|thief|
-|thing|think|thinking|third|thirteen|this|
-|thorough|thoroughly|though|thought|thousand|thrashing|
-|thread|threonine|threshold|through|throughout|throughput|
-|throw|thrown|thumb|thunder|thus|thwart|
-|tic|tical|tick|ticker|tie|tied|
-|tight|tighten|tilde|tile|tilt|tim|
-|time|timeout|timer|times|timing|tin|
-|tinct|tiny|tip|tire|tit|titanic|
-|title|titled|titus|today|together|toggle|
-|token|tolerable|tolerance|toll|tom|tombstone|
-|tone|toner|took|tool|toolbox|toolkit|
-|top|topaz|topic|topological|topology|tor|
-|tornado|total|totally|touch|touching|touchpad|
-|toward|tower|trace|tracing|track|tract|
-|tractable|trad|trademark|tradeoff|tradition|traditional|
-|traffic|trailer|trailing|train|training|trans|
-|transaction|transceiver|transcribe|transcript|transducer|transfer|
-|transform|transformation|transformer|transition|transitive|translate|
-|translation|translator|transmission|transmit|transmitter|transparency|
-|transparent|transport|transportable|transportation|trap|travel|
-|traversal|traverse|tray|treat|treatment|treble|
-|tree|trend|trick|tricky|trigger|triple|
-|triplet|trivial|trouble|true|truncate|trunk|
-|truth|try|trying|tuition|tuning|tuple|
-|turing|turn|turnaround|turning|turnkey|turnover|
-|turquoise|tutorial|twice|twist|two|type|
-|typeface|typewriter|typical|typically|typing|tyrosine|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |tab|table|tablet|tabular|tabulate|tabulator|
+|tac|tachometer|tag|tai|tail|tailgate|
+|tailor|tailored|tain|take|taken|taking|
+|tale|talent|talk|talking|tally|tandem|
+|tariff|task|tau|taylor|tct|teach|
+|teaching|team|technical|technically|technique|technology|
+|telecommunication|telemeter|telephone|teleprinter|teleprocessing|teletype|
+|teletypewriter|tell|telling|temp|temperature|template|
+|tempo|temporarily|temporary|tend|tension|ter|
+|term|terminal|terminate|termination|terminator|terminology|
+|tern|ternary|test|tested|testimony|testing|
+|tex|text|textbook|texture|tgt|than|
+|theater|theme|themselves|then|theorem|theoretical|
+|theoretically|theory|thereafter|thereby|therefore|thesaurus|
+|thesis|theta|thick|thickness|thief|thing|
+|think|thinking|third|thirteen|this|thorough|
+|thoroughly|though|thought|thousand|thrashing|thread|
+|threonine|threshold|through|throughout|throughput|throw|
+|thrown|thumb|thunder|thus|thwart|tic|
+|tical|tick|ticker|tie|tied|tight|
+|tighten|tilde|tile|tilt|tim|time|
+|timeout|timer|times|timing|tin|tinct|
+|tiny|tip|tire|tit|titanic|title|
+|titled|titus|today|together|toggle|token|
+|tolerable|tolerance|toll|tom|tombstone|tone|
+|toner|took|tool|toolbox|toolkit|top|
+|topaz|topic|topological|topology|tor|tornado|
+|total|totally|touch|touching|touchpad|toward|
+|tower|trace|tracing|track|tract|tractable|
+|trad|trademark|tradeoff|tradition|traditional|traffic|
+|trailer|trailing|train|training|trans|transaction|
+|transceiver|transcribe|transcript|transducer|transfer|transform|
+|transformation|transformer|transition|transitive|translate|translation|
+|translator|transmission|transmit|transmitter|transparency|transparent|
+|transport|transportable|transportation|trap|travel|traversal|
+|traverse|tray|treat|treatment|treble|tree|
+|trend|trick|tricky|trigger|triple|triplet|
+|trivial|trouble|true|truncate|trunk|truth|
+|try|trying|tuition|tuning|tuple|turing|
+|turn|turnaround|turning|turnkey|turnover|turquoise|
+|tutorial|twice|twist|two|type|typeface|
+|typewriter|typical|typically|typing|tyrosine|
+## U(104)
 
-## U(105)
-
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|ual|ubiquitous|ubiquity|ui|ultimately|umlaut|
-|unable|unacceptable|unaffected|unanswered|unary|unattached|
-|unattended|unavailing|unbalanced|unbiased|unbind|unblock|
-|unbound|unbounded|unchanged|unclassified|undefined|under|
-|underflow|underline|underload|underlying|underscore|understand|
-|understanding|understood|undesirable|undirected|undiscovered|undo|
-|undone|unexpected|unformat|unformatted|unfortunately|uni|
-|unicode|uniform|uniformly|union|unique|unit|
-|unite|united|universal|universality|universe|university|
-|unknowingly|unknown|unless|unlike|unlikely|unlimited|
-|unlink|unload|unlock|unmarked|unnecessarily|unnecessary|
-|unpack|unpleasant|unpredictable|unrealistic|unreasonable|unrecognized|
-|unrelated|unsafe|unscanned|unseen|unsettling|unsigned|
-|unsolved|unspecified|unsuccessful|until|untouched|unused|
-|unusual|unwanted|unweighted|up|update|upgrade|
-|upload|upon|upper|uppercase|upstream|usage|
-|use|used|useful|useless|user|userid|
-|usual|usually|utility|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |ubiquitous|ubiquity|ui|ultimately|umlaut|unable|
+|unacceptable|unaffected|unanswered|unary|unattached|unattended|
+|unavailing|unbalanced|unbiased|unbind|unblock|unbound|
+|unbounded|unchanged|unclassified|undefined|under|underflow|
+|underline|underload|underlying|underscore|understand|understanding|
+|understood|undesirable|undirected|undiscovered|undo|undone|
+|unexpected|unformat|unformatted|unfortunately|uni|unicode|
+|uniform|uniformly|union|unique|unit|unite|
+|united|universal|universality|universe|university|unknowingly|
+|unknown|unless|unlike|unlikely|unlimited|unlink|
+|unload|unlock|unmarked|unnecessarily|unnecessary|unpack|
+|unpleasant|unpredictable|unrealistic|unreasonable|unrecognized|unrelated|
+|unsafe|unscanned|unseen|unsettling|unsigned|unsolved|
+|unspecified|unsuccessful|until|untouched|unused|unusual|
+|unwanted|unweighted|up|update|upgrade|upload|
+|upon|upper|uppercase|upstream|usage|use|
+|used|useful|useless|user|userid|usual|
+|usually|utility|
 ## V(81)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|vague|val|valid|validate|validation|validity|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |vague|val|valid|validate|validation|validity|
 |valine|valuable|valuator|value|valued|van|
 |vantage|var|vari|variable|variance|variant|
 |variation|variety|various|vary|vas|vast|
@@ -840,9 +839,9 @@
 |von|voting|vowel|
 ## W(100)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|wafer|wait|waiting|wall|want|war|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |wafer|wait|waiting|wall|want|war|
 |ward|ware|warehouse|warm|warn|warning|
 |warranty|waste|wasted|wasteful|wasting|watch|
 |water|watertight|watt|waveform|way|weak|
@@ -859,20 +858,20 @@
 |world|worry|worrying|worse|worst|worth|
 |worthwhile|worthy|wrap|wrapper|write|writer|
 |writing|written|wrong|www|
-## X(2)
+## X(0)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|xii|xxx|
-## Y(7)
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  
+## Y(6)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|yahoo|year|yellow|yet|yield|yond|
-|yourself|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |year|yellow|yet|yield|yond|yourself|
+
 ## Z(8)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|zap|zero|zeroize|zip|zone|zoo|
+  | 1 | 2 | 3 | 4 | 5 | 6 |
+  | ---- | ---- | ---- | ---- | ---- | ---- |
+  |zap|zero|zeroize|zip|zone|zoo|
 |zoology|zoom|
